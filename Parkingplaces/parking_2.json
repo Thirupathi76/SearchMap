@@ -1,46 +1,164 @@
 {
-  "data": [
+	"data": [
     {
-      "id": "225",
-      "parking_name": "RTC boarding point \/ medaram Y junction RTC parking ",
-      "parking_area": "15 acres",
-      "parking_distance": "0 km",
-      "parking_capacity": "500 Vehicles",
-      "dist_gadde": "0.5 km",
-      "dist_bus_point": "0 km",
-      "parking_status": "Available",
-      "parking_lat": "18.3126305556",
-      "parking_lang": "80.2394611111",
-      "parking_map_link": "https:\/\/www.google.co.in\/maps\/place\/18.3126305556+80.2394611111"
-    },
-    {
-      "id": "265",
-      "parking_name": "Medaram Tank parking place-- VIP Parking",
-      "parking_area": "8 acres",
-      "parking_distance": "0 km",
-      "parking_capacity": "400 Vehicles",
-      "dist_gadde": "0.8 km",
-      "dist_bus_point": "0.6 km",
-      "parking_status": "Available",
-      "parking_lat": "18.3078109632",
-      "parking_lang": "80.2503978312",
-      "parking_map_link": "https:\/\/www.google.co.in\/maps\/place\/18.3078109632+80.2503978312"
-    },
-    {
-      "id": "389",
-      "parking_name": "VVIP Parking place and escort ",
-      "parking_area": "8 acres",
-      "parking_distance": "0 km",
-      "parking_capacity": "400 Vehicles",
-      "dist_gadde": "0.3 km",
-      "dist_bus_point": "0.5 km",
-      "parking_status": "Available",
-      "parking_lat": "18.3187071522",
-      "parking_lang": "80.2444729504",
-      "parking_map_link": "https:\/\/www.google.co.in\/maps\/place\/18.3187071522+80.2444729504"
-    }
-  ]
+		"id": "1",
+		"categorytype": "2",
+		"categoryname": "\u0c24\u0c46\u0c32\u0c02\u0c17\u0c3e\u0c23",
+		"sortorder": "1",
+		"status": "1",
+		"createddate": "2017-10-04",
+		"image_url": "https:\/\/www.naavarthalu.com\/api\/icons\/telangana.png"
+	}, {
+		"id": "1",
+		"categorytype": "2",
+		"categoryname": "\u0c24\u0c46\u0c32\u0c02\u0c17\u0c3e\u0c23",
+		"sortorder": "1",
+		"status": "1",
+		"createddate": "2017-10-04",
+		"image_url": "https:\/\/www.naavarthalu.com\/api\/icons\/telangana.png"
+	}, {
+		"id": "2",
+		"categorytype": "2",
+		"categoryname": "\u0c06\u0c02\u0c27\u0c4d\u0c30\u0c2a\u0c4d\u0c30\u0c26\u0c47\u0c36\u0c4d",
+		"sortorder": "2",
+		"status": "1",
+		"createddate": "2017-10-26",
+		"image_url": "https:\/\/www.naavarthalu.com\/api\/icons\/andra.png"
+	}, {
+		"id": "2",
+		"categorytype": "2",
+		"categoryname": "\u0c06\u0c02\u0c27\u0c4d\u0c30\u0c2a\u0c4d\u0c30\u0c26\u0c47\u0c36\u0c4d",
+		"sortorder": "2",
+		"status": "1",
+		"createddate": "2017-10-26",
+		"image_url": "https:\/\/www.naavarthalu.com\/api\/icons\/andra.png"
+	}, {
+		"id": "3",
+		"categorytype": "1",
+		"categoryname": "\u0c35\u0c4d\u0c2f\u0c3e\u0c2a\u0c3e\u0c30\u0c02",
+		"sortorder": "3",
+		"status": "1",
+		"createddate": "2018-01-22",
+		"image_url": "https:\/\/www.naavarthalu.com\/api\/icons\/business.png"
+	}, {
+		"id": "3",
+		"categorytype": "1",
+		"categoryname": "\u0c35\u0c4d\u0c2f\u0c3e\u0c2a\u0c3e\u0c30\u0c02",
+		"sortorder": "3",
+		"status": "1",
+		"createddate": "2018-01-22",
+		"image_url": "https:\/\/www.naavarthalu.com\/api\/icons\/business.png"
+	}, {
+		"id": "4",
+		"categorytype": "1",
+		"categoryname": "\u0c2f\u0c41\u0c1f\u0c4d\u0c2f\u0c42\u0c2c\u0c4d \u0c28\u0c3e \u0c35\u0c3e\u0c30\u0c4d\u0c24\u0c32\u0c41",
+		"sortorder": "4",
+		"status": "1",
+		"createddate": "2018-01-22",
+		"image_url": "https:\/\/www.naavarthalu.com\/api\/icons\/youtube.png"
+	}, {
+		"id": "4",
+		"categorytype": "1",
+		"categoryname": "\u0c2f\u0c41\u0c1f\u0c4d\u0c2f\u0c42\u0c2c\u0c4d \u0c28\u0c3e \u0c35\u0c3e\u0c30\u0c4d\u0c24\u0c32\u0c41",
+		"sortorder": "4",
+		"status": "1",
+		"createddate": "2018-01-22",
+		"image_url": "https:\/\/www.naavarthalu.com\/api\/icons\/youtube.png"
+	}, {
+		"id": "5",
+		"categorytype": "1",
+		"categoryname": "\u0c35\u0c3e\u0c30\u0c4d\u0c24 \u0c2a\u0c24\u0c4d\u0c30\u0c3f\u0c15\u0c32\u0c41",
+		"sortorder": "5",
+		"status": "1",
+		"createddate": "2018-01-22",
+		"image_url": "https:\/\/www.naavarthalu.com\/api\/icons\/newspaper.png"
+	}, {
+		"id": "5",
+		"categorytype": "1",
+		"categoryname": "\u0c35\u0c3e\u0c30\u0c4d\u0c24 \u0c2a\u0c24\u0c4d\u0c30\u0c3f\u0c15\u0c32\u0c41",
+		"sortorder": "5",
+		"status": "1",
+		"createddate": "2018-01-22",
+		"image_url": "https:\/\/www.naavarthalu.com\/api\/icons\/newspaper.png"
+	}, {
+		"id": "6",
+		"categorytype": "1",
+		"categoryname": "\u0c32\u0c48\u0c35\u0c4d \u0c1f\u0c40\u0c35\u0c40 \u0c1a\u0c3e\u0c28\u0c32\u0c4d\u0c38\u0c4d",
+		"sortorder": "6",
+		"status": "1",
+		"createddate": "2018-01-22",
+		"image_url": "https:\/\/www.naavarthalu.com\/api\/icons\/livetv.png"
+	}, {
+		"id": "6",
+		"categorytype": "1",
+		"categoryname": "\u0c32\u0c48\u0c35\u0c4d \u0c1f\u0c40\u0c35\u0c40 \u0c1a\u0c3e\u0c28\u0c32\u0c4d\u0c38\u0c4d",
+		"sortorder": "6",
+		"status": "1",
+		"createddate": "2018-01-22",
+		"image_url": "https:\/\/www.naavarthalu.com\/api\/icons\/livetv.png"
+	}, {
+		"id": "7",
+		"categorytype": "1",
+		"categoryname": "\u0c38\u0c3f\u0c28\u0c3f\u0c2e\u0c3e \u0c35\u0c3e\u0c30\u0c4d\u0c24\u0c32\u0c41",
+		"sortorder": "7",
+		"status": "1",
+		"createddate": "2018-01-22",
+		"image_url": "https:\/\/www.naavarthalu.com\/api\/icons\/entertainment.png"
+	}, {
+		"id": "7",
+		"categorytype": "1",
+		"categoryname": "\u0c38\u0c3f\u0c28\u0c3f\u0c2e\u0c3e \u0c35\u0c3e\u0c30\u0c4d\u0c24\u0c32\u0c41",
+		"sortorder": "7",
+		"status": "1",
+		"createddate": "2018-01-22",
+		"image_url": "https:\/\/www.naavarthalu.com\/api\/icons\/entertainment.png"
+	}, {
+		"id": "8",
+		"categorytype": "1",
+		"categoryname": "\u0c38\u0c30\u0c4d\u0c35\u0c47",
+		"sortorder": "8",
+		"status": "1",
+		"createddate": "2018-01-22",
+		"image_url": "https:\/\/www.naavarthalu.com\/api\/icons\/survey.png"
+	}, {
+		"id": "8",
+		"categorytype": "1",
+		"categoryname": "\u0c38\u0c30\u0c4d\u0c35\u0c47",
+		"sortorder": "8",
+		"status": "1",
+		"createddate": "2018-01-22",
+		"image_url": "https:\/\/www.naavarthalu.com\/api\/icons\/survey.png"
+	}, {
+		"id": "9",
+		"categorytype": "1",
+		"categoryname": "\u0c35\u0c4d\u0c2f\u0c35\u0c38\u0c3e\u0c2f\u0c02",
+		"sortorder": "9",
+		"status": "1",
+		"createddate": "2018-01-22",
+		"image_url": "https:\/\/www.naavarthalu.com\/api\/icons\/agriculture.png"
+	}, {
+		"id": "9",
+		"categorytype": "1",
+		"categoryname": "\u0c35\u0c4d\u0c2f\u0c35\u0c38\u0c3e\u0c2f\u0c02",
+		"sortorder": "9",
+		"status": "1",
+		"createddate": "2018-01-22",
+		"image_url": "https:\/\/www.naavarthalu.com\/api\/icons\/agriculture.png"
+	}, {
+		"id": "10",
+		"categorytype": "1",
+		"categoryname": "\u0c2d\u0c15\u0c4d\u0c24\u0c40 \u0c38\u0c2e\u0c3e\u0c1a\u0c3e\u0c30\u0c02",
+		"sortorder": "10",
+		"status": "1",
+		"createddate": "2018-01-22",
+		"image_url": "https:\/\/www.naavarthalu.com\/api\/icons\/devotional.png"
+	}, {
+		"id": "10",
+		"categorytype": "1",
+		"categoryname": "\u0c2d\u0c15\u0c4d\u0c24\u0c40 \u0c38\u0c2e\u0c3e\u0c1a\u0c3e\u0c30\u0c02",
+		"sortorder": "10",
+		"status": "1",
+		"createddate": "2018-01-22",
+		"image_url": "https:\/\/www.naavarthalu.com\/api\/icons\/devotional.png"
+	}]
 }
-
-
-
