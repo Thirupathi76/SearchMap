@@ -6,159 +6,139 @@
 		"categoryname": "\u0c24\u0c46\u0c32\u0c02\u0c17\u0c3e\u0c23",
 		"sortorder": "1",
 		"status": "1",
-		"createddate": "2017-10-04",
-		"image_url": "https:\/\/www.naavarthalu.com\/api\/icons\/telangana.png"
+		"createddate": "2017-10-04"
 	}, {
 		"id": "1",
 		"categorytype": "2",
 		"categoryname": "\u0c24\u0c46\u0c32\u0c02\u0c17\u0c3e\u0c23",
 		"sortorder": "1",
 		"status": "1",
-		"createddate": "2017-10-04",
-		"image_url": "https:\/\/www.naavarthalu.com\/api\/icons\/telangana.png"
+		"createddate": "2017-10-04"
 	}, {
 		"id": "2",
 		"categorytype": "2",
 		"categoryname": "\u0c06\u0c02\u0c27\u0c4d\u0c30\u0c2a\u0c4d\u0c30\u0c26\u0c47\u0c36\u0c4d",
 		"sortorder": "2",
 		"status": "1",
-		"createddate": "2017-10-26",
-		"image_url": "https:\/\/www.naavarthalu.com\/api\/icons\/andra.png"
+		"createddate": "2017-10-26"
 	}, {
 		"id": "2",
 		"categorytype": "2",
 		"categoryname": "\u0c06\u0c02\u0c27\u0c4d\u0c30\u0c2a\u0c4d\u0c30\u0c26\u0c47\u0c36\u0c4d",
 		"sortorder": "2",
 		"status": "1",
-		"createddate": "2017-10-26",
-		"image_url": "https:\/\/www.naavarthalu.com\/api\/icons\/andra.png"
+		"createddate": "2017-10-26"
 	}, {
 		"id": "3",
 		"categorytype": "1",
 		"categoryname": "\u0c35\u0c4d\u0c2f\u0c3e\u0c2a\u0c3e\u0c30\u0c02",
 		"sortorder": "3",
 		"status": "1",
-		"createddate": "2018-01-22",
-		"image_url": "https:\/\/www.naavarthalu.com\/api\/icons\/business.png"
+		"createddate": "2018-01-22"
 	}, {
 		"id": "3",
 		"categorytype": "1",
 		"categoryname": "\u0c35\u0c4d\u0c2f\u0c3e\u0c2a\u0c3e\u0c30\u0c02",
 		"sortorder": "3",
 		"status": "1",
-		"createddate": "2018-01-22",
-		"image_url": "https:\/\/www.naavarthalu.com\/api\/icons\/business.png"
+		"createddate": "2018-01-22"
 	}, {
 		"id": "4",
 		"categorytype": "1",
 		"categoryname": "\u0c2f\u0c41\u0c1f\u0c4d\u0c2f\u0c42\u0c2c\u0c4d \u0c28\u0c3e \u0c35\u0c3e\u0c30\u0c4d\u0c24\u0c32\u0c41",
 		"sortorder": "4",
 		"status": "1",
-		"createddate": "2018-01-22",
-		"image_url": "https:\/\/www.naavarthalu.com\/api\/icons\/youtube.png"
+		"createddate": "2018-01-22"
 	}, {
 		"id": "4",
 		"categorytype": "1",
 		"categoryname": "\u0c2f\u0c41\u0c1f\u0c4d\u0c2f\u0c42\u0c2c\u0c4d \u0c28\u0c3e \u0c35\u0c3e\u0c30\u0c4d\u0c24\u0c32\u0c41",
 		"sortorder": "4",
 		"status": "1",
-		"createddate": "2018-01-22",
-		"image_url": "https:\/\/www.naavarthalu.com\/api\/icons\/youtube.png"
+		"createddate": "2018-01-22"
 	}, {
 		"id": "5",
 		"categorytype": "1",
 		"categoryname": "\u0c35\u0c3e\u0c30\u0c4d\u0c24 \u0c2a\u0c24\u0c4d\u0c30\u0c3f\u0c15\u0c32\u0c41",
 		"sortorder": "5",
 		"status": "1",
-		"createddate": "2018-01-22",
-		"image_url": "https:\/\/www.naavarthalu.com\/api\/icons\/newspaper.png"
+		"createddate": "2018-01-22"
 	}, {
 		"id": "5",
 		"categorytype": "1",
 		"categoryname": "\u0c35\u0c3e\u0c30\u0c4d\u0c24 \u0c2a\u0c24\u0c4d\u0c30\u0c3f\u0c15\u0c32\u0c41",
 		"sortorder": "5",
 		"status": "1",
-		"createddate": "2018-01-22",
-		"image_url": "https:\/\/www.naavarthalu.com\/api\/icons\/newspaper.png"
+		"createddate": "2018-01-22"
 	}, {
 		"id": "6",
 		"categorytype": "1",
 		"categoryname": "\u0c32\u0c48\u0c35\u0c4d \u0c1f\u0c40\u0c35\u0c40 \u0c1a\u0c3e\u0c28\u0c32\u0c4d\u0c38\u0c4d",
 		"sortorder": "6",
 		"status": "1",
-		"createddate": "2018-01-22",
-		"image_url": "https:\/\/www.naavarthalu.com\/api\/icons\/livetv.png"
+		"createddate": "2018-01-22"
 	}, {
 		"id": "6",
 		"categorytype": "1",
 		"categoryname": "\u0c32\u0c48\u0c35\u0c4d \u0c1f\u0c40\u0c35\u0c40 \u0c1a\u0c3e\u0c28\u0c32\u0c4d\u0c38\u0c4d",
 		"sortorder": "6",
 		"status": "1",
-		"createddate": "2018-01-22",
-		"image_url": "https:\/\/www.naavarthalu.com\/api\/icons\/livetv.png"
+		"createddate": "2018-01-22"
 	}, {
 		"id": "7",
 		"categorytype": "1",
 		"categoryname": "\u0c38\u0c3f\u0c28\u0c3f\u0c2e\u0c3e \u0c35\u0c3e\u0c30\u0c4d\u0c24\u0c32\u0c41",
 		"sortorder": "7",
 		"status": "1",
-		"createddate": "2018-01-22",
-		"image_url": "https:\/\/www.naavarthalu.com\/api\/icons\/entertainment.png"
+		"createddate": "2018-01-22"
 	}, {
 		"id": "7",
 		"categorytype": "1",
 		"categoryname": "\u0c38\u0c3f\u0c28\u0c3f\u0c2e\u0c3e \u0c35\u0c3e\u0c30\u0c4d\u0c24\u0c32\u0c41",
 		"sortorder": "7",
 		"status": "1",
-		"createddate": "2018-01-22",
-		"image_url": "https:\/\/www.naavarthalu.com\/api\/icons\/entertainment.png"
+		"createddate": "2018-01-22"
 	}, {
 		"id": "8",
 		"categorytype": "1",
 		"categoryname": "\u0c38\u0c30\u0c4d\u0c35\u0c47",
 		"sortorder": "8",
 		"status": "1",
-		"createddate": "2018-01-22",
-		"image_url": "https:\/\/www.naavarthalu.com\/api\/icons\/survey.png"
+		"createddate": "2018-01-22"
 	}, {
 		"id": "8",
 		"categorytype": "1",
 		"categoryname": "\u0c38\u0c30\u0c4d\u0c35\u0c47",
 		"sortorder": "8",
 		"status": "1",
-		"createddate": "2018-01-22",
-		"image_url": "https:\/\/www.naavarthalu.com\/api\/icons\/survey.png"
+		"createddate": "2018-01-22"
 	}, {
 		"id": "9",
 		"categorytype": "1",
 		"categoryname": "\u0c35\u0c4d\u0c2f\u0c35\u0c38\u0c3e\u0c2f\u0c02",
 		"sortorder": "9",
 		"status": "1",
-		"createddate": "2018-01-22",
-		"image_url": "https:\/\/www.naavarthalu.com\/api\/icons\/agriculture.png"
+		"createddate": "2018-01-22"
 	}, {
 		"id": "9",
 		"categorytype": "1",
 		"categoryname": "\u0c35\u0c4d\u0c2f\u0c35\u0c38\u0c3e\u0c2f\u0c02",
 		"sortorder": "9",
 		"status": "1",
-		"createddate": "2018-01-22",
-		"image_url": "https:\/\/www.naavarthalu.com\/api\/icons\/agriculture.png"
+		"createddate": "2018-01-22"
 	}, {
 		"id": "10",
 		"categorytype": "1",
 		"categoryname": "\u0c2d\u0c15\u0c4d\u0c24\u0c40 \u0c38\u0c2e\u0c3e\u0c1a\u0c3e\u0c30\u0c02",
 		"sortorder": "10",
 		"status": "1",
-		"createddate": "2018-01-22",
-		"image_url": "https:\/\/www.naavarthalu.com\/api\/icons\/devotional.png"
+		"createddate": "2018-01-22"
 	}, {
 		"id": "10",
 		"categorytype": "1",
 		"categoryname": "\u0c2d\u0c15\u0c4d\u0c24\u0c40 \u0c38\u0c2e\u0c3e\u0c1a\u0c3e\u0c30\u0c02",
 		"sortorder": "10",
 		"status": "1",
-		"createddate": "2018-01-22",
-		"image_url": "https:\/\/www.naavarthalu.com\/api\/icons\/devotional.png"
+		"createddate": "2018-01-22"
 	}]
 }
