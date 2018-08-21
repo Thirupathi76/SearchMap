@@ -1,5 +1,5 @@
-
- [
+{
+	"job_list":[
     {
 		"pos_name": "Android Developer",
 		"experience": "2-4 years",
@@ -23,3 +23,4 @@
 		"createddate": "2018-08-04"
 	}
  ]
+}
