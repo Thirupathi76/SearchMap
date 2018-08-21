@@ -1,4 +1,4 @@
-{
+
  [
     {
 		"pos_name": "Android Developer",
@@ -21,4 +21,5 @@
 		"location": "Chennai",
 		"key_skills": ".NET, ASP, Azure",
 		"createddate": "2018-08-04"
-	}]}
+	}
+ ]
