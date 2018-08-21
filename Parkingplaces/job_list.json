@@ -1,0 +1,24 @@
+{
+	"data": [
+    {
+		"id": "1",
+		"categorytype": "2",
+		"categoryname": "\u0c24\u0c46\u0c32\u0c02\u0c17\u0c3e\u0c23",
+		"sortorder": "1",
+		"status": "1",
+		"createddate": "2017-10-04"
+	}, {
+		"id": "1",
+		"categorytype": "2",
+		"categoryname": "\u0c24\u0c46\u0c32\u0c02\u0c17\u0c3e\u0c23",
+		"sortorder": "1",
+		"status": "1",
+		"createddate": "2017-10-04"
+	}, {
+		"id": "2",
+		"categorytype": "2",
+		"categoryname": "\u0c06\u0c02\u0c27\u0c4d\u0c30\u0c2a\u0c4d\u0c30\u0c26\u0c47\u0c36\u0c4d",
+		"sortorder": "2",
+		"status": "1",
+		"createddate": "2017-10-26"
+	}]}
