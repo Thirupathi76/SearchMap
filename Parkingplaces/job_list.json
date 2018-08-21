@@ -1,24 +1,24 @@
 {
-	"data": [
+	"job_list": [
     {
-		"id": "1",
-		"categorytype": "2",
-		"categoryname": "\u0c24\u0c46\u0c32\u0c02\u0c17\u0c3e\u0c23",
-		"sortorder": "1",
-		"status": "1",
-		"createddate": "2017-10-04"
+		"pos_name": "Android Developer",
+		"experience": "2-4 years",
+		"sal_range": "2.4 - 6 LPA",
+		"location": "Hyderabad",
+		"key_skills": "Android, java, xml",
+		"createddate": "2018-08-04"
 	}, {
-		"id": "1",
-		"categorytype": "2",
-		"categoryname": "\u0c24\u0c46\u0c32\u0c02\u0c17\u0c3e\u0c23",
-		"sortorder": "1",
-		"status": "1",
-		"createddate": "2017-10-04"
+		"pos_name": "Java Developer",
+		"experience": "1-4 years",
+		"sal_range": "2.4 - 6 LPA",
+		"location": "Hyderabad",
+		"key_skills": "Spring, java, xml",
+		"createddate": "2018-08-04"
 	}, {
-		"id": "2",
-		"categorytype": "2",
-		"categoryname": "\u0c06\u0c02\u0c27\u0c4d\u0c30\u0c2a\u0c4d\u0c30\u0c26\u0c47\u0c36\u0c4d",
-		"sortorder": "2",
-		"status": "1",
-		"createddate": "2017-10-26"
+		"pos_name": ".NET Developer",
+		"experience": "2-4 years",
+		"sal_range": "3 - 6 LPA",
+		"location": "Chennai",
+		"key_skills": ".NET, ASP, Azure",
+		"createddate": "2018-08-04"
 	}]}
