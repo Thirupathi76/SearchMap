@@ -1,56 +1,56 @@
 {
 	"batsman": [{
-		"name": "1",
-		"average": "2",
+		"name": "Ravi",
+		"average": "10%",
 		"age": "20",
-		"inns": "1"
+		"inns": "10"
 	}, {
-		"name": "1",
-		"average": "2",
+		"name": "Jay",
+		"average": "20%",
 		"age": "23",
-		"inns": "1"
+		"inns": "20"
 	}, {
-		"name": "2",
-		"average": "2",
+		"name": "Gopi",
+		"average": "30%",
 		"age": "26",
-		"inns": "2"
+		"inns": "30"
 	}, {
-		"name": "2",
-		"average": "2",
-		"age": "19",
-		"inns": "2"
+		"name": "Krishna",
+		"average": "30%",
+		"age": "25",
+		"inns": "40"
 	}, {
-		"name": "3",
-		"average": "1",
+		"name": "Mani",
+		"average": "50%",
 		"age": "28",
-		"inns": "3"
+		"inns": "50"
 	}],
   
   
 	"bowlers": [{
-		"name": "1",
-		"average": "2",
-		"age": "20",
-		"inns": "1"
+		"name": "Pavan",
+		"average": "35%",
+		"age": "35",
+		"inns": "60"
 	}, {
-		"name": "1",
-		"average": "2",
+		"name": "Aravind",
+		"average": "55%",
 		"age": "23",
 		"inns": "1"
 	}, {
-		"name": "2",
-		"average": "2",
+		"name": "Teja",
+		"average": "45%",
 		"age": "26",
 		"inns": "2"
 	}, {
-		"name": "2",
-		"average": "2",
-		"age": "19",
-		"inns": "2"
+		"name": "surya",
+		"average": "55%",
+		"age": "31",
+		"inns": "70"
 	}, {
-		"name": "3",
-		"average": "1",
+		"name": "siva",
+		"average": "65%",
 		"age": "28",
-		"inns": "3"
+		"inns": "60"
 	}]
 }
