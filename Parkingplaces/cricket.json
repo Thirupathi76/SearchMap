@@ -1,0 +1,56 @@
+{
+	"batsman": [{
+		"name": "1",
+		"average": "2",
+		"age": "20",
+		"inns": "1"
+	}, {
+		"name": "1",
+		"average": "2",
+		"age": "23",
+		"inns": "1"
+	}, {
+		"name": "2",
+		"average": "2",
+		"age": "26",
+		"inns": "2"
+	}, {
+		"name": "2",
+		"average": "2",
+		"age": "19",
+		"inns": "2"
+	}, {
+		"name": "3",
+		"average": "1",
+		"age": "28",
+		"inns": "3"
+	}],
+  
+  
+	"bowlers": [{
+		"name": "1",
+		"average": "2",
+		"age": "20",
+		"inns": "1"
+	}, {
+		"name": "1",
+		"average": "2",
+		"age": "23",
+		"inns": "1"
+	}, {
+		"name": "2",
+		"average": "2",
+		"age": "26",
+		"inns": "2"
+	}, {
+		"name": "2",
+		"average": "2",
+		"age": "19",
+		"inns": "2"
+	}, {
+		"name": "3",
+		"average": "1",
+		"age": "28",
+		"inns": "3"
+	}]
+}
