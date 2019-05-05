@@ -1,0 +1,48 @@
+{
+	"data": [{
+		"id": "20",
+		"name": "sldkfjsdf asldfkjsldkfj asdflkjsdf asdlfkjsdlfj",
+		"description": "lskfjds sldkfjsdf asldfkjsldkfj asdflkjsdf asdlfkjsdlfj",
+		"category": "2",
+		"image_or_video": "1",
+		"news": "http:\/\/apteachers9.in\/epapers\/galleryimages\/1556998410banner_ifiledownloader.png",
+		"dddd": "2019-05-05",
+		"timer": "2019-05-05 01:03:30"
+	}, {
+		"id": "7",
+		"name": "testing purpose",
+		"description": "testing purpose",
+		"category": "2",
+		"image_or_video": "2",
+		"news": "http:\/\/apteachers9.in\/epapers\/",
+		"dddd": "2019-04-16",
+		"timer": "0000-00-00 00:00:00"
+	}, {
+		"id": "16",
+		"name": "testing",
+		"description": "dfgdfbd",
+		"category": "4",
+		"image_or_video": "2",
+		"news": "http:\/\/apteachers9.in\/epapers\/",
+		"dddd": "2019-04-23",
+		"timer": "2019-04-22 22:45:26"
+	}, {
+		"id": "14",
+		"name": "Whatsapp wiral",
+		"description": "reaction tiktok",
+		"category": "4",
+		"image_or_video": "2",
+		"news": "http:\/\/apteachers9.in\/epapers\/",
+		"dddd": "2019-04-20",
+		"timer": "2019-04-20 19:24:21"
+	}, {
+		"id": "26",
+		"name": "trip",
+		"description": "trip",
+		"category": "2",
+		"image_or_video": "2",
+		"news": "http:\/\/apteachers9.in\/epapers\/galleryimages\/1557037075Prasanna.jpg",
+		"dddd": "2019-05-06",
+		"timer": "2019-05-05 11:47:55"
+	}]
+}
